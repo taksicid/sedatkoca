@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://parcayuknakliyeankara.com/sitemap.xml
+Sitemap: https://kucuknakliyeankara.com/sitemap.xml
